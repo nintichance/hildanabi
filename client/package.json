@@ -1,0 +1,22 @@
+{
+  "name": "hanabi",
+  "version": "1.0.0",
+  "description": "hilda themed hanabi",
+  "main": "hanabi.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nintichance/hildanabi.git"
+  },
+  "author": "ninhursag",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nintichance/hildanabi/issues"
+  },
+  "homepage": "https://github.com/nintichance/hildanabi#readme",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
