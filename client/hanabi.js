@@ -1,3 +1,10 @@
+//Make connection
+
+const socket = io.connect('http://localhost:3000')
+
+
+
+
 //SUIT
 //I'm going to append the cards to the document
 //3 1s of each color... 15 cards
